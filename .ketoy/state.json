@@ -1,0 +1,9 @@
+{
+  "ketoyVersion": "0.3.4-alpha",
+  "initRanOn": "2026-06-02T08:25:29.943Z",
+  "hilt": false,
+  "applicationId": "com.aarav.ketoydemo",
+  "namespace": "com.aarav.ketoydemo",
+  "packagePath": "/Users/aaravhalvadiya/AndroidStudioProjects/KetoyDemo/app/src/main/java/com/aarav/ketoydemo",
+  "bundlePath": "app/src/main/assets/ketoy/main.ktx"
+}
